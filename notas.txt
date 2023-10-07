@@ -1,0 +1,8 @@
+el gid ignore sirve para decirle a gid que archivos no tiene que tener en cuenta
+git init (para darle de alta al repositorio en git)
+git add . o el nombre del archivo a subir(para subir a git los archivos)
+git status (ver estado de los repositorios)
+git commit-m "" grabar nuevos cambios
+git log
+gid checkout (codigo de repositorio)
+git branch (para crear y ver en que rama estamos)
