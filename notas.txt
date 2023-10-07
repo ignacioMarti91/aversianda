@@ -4,5 +4,7 @@ git add . o el nombre del archivo a subir(para subir a git los archivos)
 git status (ver estado de los repositorios)
 git commit-m "" grabar nuevos cambios
 git log
-gid checkout (codigo de repositorio)
+gid checkout (para cambiar de rama )
 git branch (para crear y ver en que rama estamos)
+cls (limpiar)
+git merge  "main" "desarrollo2" (sirve para pasar la rama que creamos ala rama principal)
